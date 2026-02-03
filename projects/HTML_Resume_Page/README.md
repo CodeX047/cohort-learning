@@ -2,7 +2,7 @@
 
 A simple, static HTML-based resume page showcasing personal information, skills, experience, projects, education, and contact details.
 
-Live Demo: [View Resume](https://cohort-learning.pages.dev)
+Live Demo: [View Resume](https://html-resume-page.pages.dev)
 
 ## Usage
 
