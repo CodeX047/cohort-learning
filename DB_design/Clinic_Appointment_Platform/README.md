@@ -41,6 +41,8 @@ patient [icon: user, color: yellow] {
   name varchar(50)
   email varchar(355) unique
   phone_no char(10)
+  age int
+  gender varchar(10) check (gender in ('male', 'female', 'other'))
   address text
   created_at timestamp
   updated_at timestamp
@@ -62,6 +64,8 @@ appointment [icon: calendar, color: green] {
 consultation [icon: document, color: orange] {
   consultation_id serial pk
   appointment_id fk
+  symptoms text
+  diagnosis text
   notes text
   created_at timestamp
 }
