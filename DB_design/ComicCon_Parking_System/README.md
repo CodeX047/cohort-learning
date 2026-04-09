@@ -1,5 +1,7 @@
 # Comic-Con Parking System – ER Diagram
 
+![Comic-Con Parking System ER Diagram](ComicConParkingDesign.png)
+
 This project contains an ER diagram for a multi-zone parking system designed for large events like Comic-Con. The system manages vehicle entry, parking allocation, sessions, tickets, and payments.
 
 ## Main Entities
