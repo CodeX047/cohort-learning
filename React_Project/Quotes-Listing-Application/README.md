@@ -1,6 +1,6 @@
 # Quotes
 
-![Live Demo](https://qoutes-eqt.pages.dev/)
+[Live Demo](https://qoutes-eqt.pages.dev/)
 
 ![UI](./public/SS.png)
 
