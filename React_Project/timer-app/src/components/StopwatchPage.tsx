@@ -64,7 +64,7 @@ const StopwatchPage = () => {
   const formattedMilliseconds = String(milliseconds).padStart(2, "0");
 
   return (
-    <div className="min-h-screen bg-zinc-950 flex items-center justify-center px-4">
+    <div className="flex items-center justify-center">
       <div className="w-full max-w-md bg-zinc-900 border border-zinc-800 rounded-3xl p-10 shadow-2xl">
         <div className="flex flex-col items-center gap-8">
           <h1 className="text-zinc-400 text-sm tracking-[0.3em] uppercase">
